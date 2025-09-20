@@ -1,7 +1,8 @@
-package com.tnsif.oops;
+package com.tnsif.oopsprogram;
 
 
-	class Vehicle {
+
+class Vehicle {
     void start() {
         System.out.println("Vehicle is starting...");
     }
@@ -25,7 +26,7 @@ class Truck extends Vehicle {
     }
 }
 
-public class HierarchicalVehicle {
+public class HierarchicalVehcile {
 
     public static void main(String[] args) {
        
