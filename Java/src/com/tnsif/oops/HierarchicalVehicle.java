@@ -48,5 +48,3 @@ public class HierarchicalVehicle {
         truck.load();
     }
 }
-
-
