@@ -1,6 +1,6 @@
-package Palindrome;
+package com.tnsif.basics;
 
-public class Palindrome {	
+public class Palindrome {
 	public static void main(String[] args) {
 	int num = 121;  
     int temp = num;
@@ -21,6 +21,5 @@ public class Palindrome {
 
 }
 
+
 }
-
-
