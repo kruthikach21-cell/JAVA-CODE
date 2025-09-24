@@ -20,5 +20,3 @@ public class ArrDemo2D {
         }
     }
 }
-
-
